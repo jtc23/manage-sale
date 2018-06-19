@@ -1,0 +1,9 @@
+/**
+ * Created by leevare on 2017/12/6.
+ */
+export const GET_NOTIFIES = 'GET_ALL_NOTIFIES'
+export const DELETE_NOTIFIES_FAILED = 'DELETE_NOTIFIES_FAILED'
+export const GET_CUSTOM_MENUS = 'GET_CUSTOM_MENUS'
+export const SET_CUSTOM_MENUS = 'SET_CUSTOM_MENUS'
+export const SET_USER_INFO = 'SET_USER_INFO'
+export const SET_RECENT_TABS = 'SET_RECENT_TABS'
